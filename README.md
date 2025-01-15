@@ -48,16 +48,9 @@ Detected anomalies in 5 out of 12210 routes.
 - Train and evaluate additional machine learning models using the prepared data.
 - Provide command-line support for data processing and anomaly detection.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - OpenStreetMap contributors for the data.
 - TensorFlow for providing robust tools for sequence padding, normalization, and anomaly detection.
 
-## Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests.
 
